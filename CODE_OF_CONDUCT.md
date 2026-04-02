@@ -1,7 +1,3 @@
-Here’s a **professional `CODE_OF_CONDUCT.md`** (based on Contributor Covenant, FAANG-level standard) you can directly use 👇
-
----
-
 # 📜 Code of Conduct
 
 ## 🌟 Our Pledge
